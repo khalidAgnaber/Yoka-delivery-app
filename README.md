@@ -304,15 +304,6 @@ Example item structure:
 }
 ```
 
-## ⚠️ Known Issues & Notes
-
-- Some package versions may show compatibility warnings but should not affect functionality
-- Recommended package updates (as shown in Expo):
-  - `expo@~51.0.39`
-  - `react-native@0.74.5`
-  - `react-native-reanimated@~3.10.1`
-  - `react-native-safe-area-context@4.10.5`
-
 ## 🔧 Development Notes
 
 ### State Management
@@ -329,15 +320,7 @@ Example item structure:
 - Android
 - Web (limited functionality)
 
-## 📝 License
-
-This project is private and proprietary.
-
 ## 👨‍💻 Development
 
 Built with React Native and Expo for cross-platform mobile development.
-
----
-
-**Note**: Make sure to configure Firebase credentials before deploying to production. Keep sensitive keys secure and never commit them to version control.
 
