@@ -1,0 +1,10 @@
+// src/components/rating/styles.js
+import { StyleSheet } from 'react-native';
+
+const styles = StyleSheet.create({
+  rating: {
+    flexDirection: 'row',
+  },
+});
+
+export default styles;

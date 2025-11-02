@@ -1,0 +1,366 @@
+{
+  
+    "restaurents": [
+      {
+        "category": "menu",
+        "description": "Salade de choux + 3 brochettes de blanc de poulet (Sasami avec riz nature et légumes sautés)",
+        "image_url": "https://i.pinimg.com/564x/92/87/be/9287be27c40e8e33ad808ee8f89a14eb.jpg",
+        "is_closed": false,
+        "money": "59 DH",
+        "name": "Kyoto",
+        "rating": 4,
+        "review_count": 1654
+      },
+      {
+        "category": "menu",
+        "description": "12 pièces de rolls + 3 brochettes de tsukune",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3KJ0XLkOKB92Ik7pbrTynOTPYrch6WGVa9Q&s",
+        "is_closed": false,
+        "money": "114 DH",
+        "name": "Tokyo",
+        "rating": 4.5,
+        "review_count": 2491
+      },
+      {
+        "category": "menu",
+        "description": "Soupe miso + nouilles poulet",
+        "image_url": "https://i.pinimg.com/564x/36/4b/6f/364b6ff730d2d6fd1148d24ea3dbeb22.jpg",
+        "is_closed": false,
+        "money": "69 DH",
+        "name": "Osaka",
+        "rating": 4,
+        "review_count": 591
+      },
+      {
+        "category": "menu",
+        "description": "6 pièces de rolls + 4 pièces de sushi au saumon + brochettes de cuisses de poulet",
+        "image_url": "https://rs-menus-api.roocdn.com/images/6e458f52-8302-42bb-b93b-5b9198d8ed5e/image.jpeg?width=1200&height=630&fit=cropv",
+        "is_closed": false,
+        "money": "114 DH",
+        "name": "Nagoya",
+        "rating": 4.5,
+        "review_count": 5312
+      },
+      {
+        "category": "menu",
+        "description": "Tori salade + 3 brochettes boeuf au fromage + 1 café",
+        "image_url": "https://s3.burpple.com/foods/3768eef6a5cd85349221476933_original.?1481712651",
+        "is_closed": false,
+        "money": "89 DH",
+        "name": "Kobe",
+        "rating": 3.5,
+        "review_count": 1357
+      },
+      {
+        "category": "assortiment",
+        "description": "6 maki saumon, 4 cream cheese, 4 rolls casher, 4 sushis saumon",
+        "image_url": "https://www.manicook-traiteur.fr/wp-content/uploads/2020/05/sushi-maki.jpg",
+        "is_closed": false,
+        "money": "145 DH",
+        "name": "California lovers",
+        "rating": 5,
+        "review_count": 2852
+      },
+      {
+        "category": "assortiment",
+        "description": "6 Rouleaux de printemps mixte, 4 Rolls du chef, 4 Sashimi saumon, 2 Sushi thon",
+        "image_url": "https://usakor.com/qwhibachi-fairoaks-mall/wp-content/uploads/sites/14/2019/01/s_02.jpg",
+        "is_closed": false,
+        "money": "164 DH",
+        "name": "Season roll",
+        "rating": 4.5,
+        "review_count": 1853
+      },
+      {
+        "category": "assortiment",
+        "description": "4 Crunchy, 4 Sushi pizza, 4 Fry Ebi Fry, 4 Rabat, 6 Aromaki Pami",
+        "image_url": "https://api.allonaya.ma/assets/files/Media/3GtMiWFgu5zwm4CXL/image/WhatsApp%20Image%202023-12-09%20at%2019.33.17.jpg",
+        "is_closed": false,
+        "money": "179 DH",
+        "name": "Hot Roll",
+        "rating": 4,
+        "review_count": 1557
+      },
+      {
+        "category": "assortiment",
+        "description": "2 Sushi crevettes, 4 Sashimi saumon, 4 Rolls du chef, 4 Rolls classic, 6 Rouleaux de printemps saumon",
+        "image_url": "https://api.allonaya.ma/assets/files/Media/HRhMPzs5YHid8EvCA/medium/1592074083-1548333519-Yoka-Sushi-Hot-Roll.jpg",
+        "is_closed": false,
+        "money": "189 DH",
+        "name": "Old school",
+        "rating": 4.5,
+        "review_count": 2952
+      },
+      {
+        "category": "assortiment",
+        "description": "4 Crunchy, 4 Arcs en ciel, 6 Rouleaux de printemps crevettes, 2 Sushi saumon, 4 Cream cheese, 4 Sashimi saumon",
+        "image_url": "https://food.blk.ma/upload/1592074247-1548333549-Yoka-Sushi-Funky-Japs.jpg",
+        "is_closed": false,
+        "money": "199 DH",
+        "name": "Yoka Royal",
+        "rating": 3.5,
+        "review_count": 1985
+      },
+      {
+        "category": "assortiment",
+        "description": "4 Sashimi saumon, 4 Sushi saumon, 4 Boston Roll, 4 Rolls saumon, 6 Maki avocat",
+        "image_url": "data:image/jpeg;base64,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",
+        "is_closed": false,
+        "money": "179 DH",
+        "name": "Funky Japs",
+        "rating": 4,
+        "review_count": 1973
+      },
+      {
+        "category": "assortiment",
+        "description": "4 Sashimi saumon, 4 Cream cheese, 4 Rolls saumon épicé",
+        "image_url": "https://api.allonaya.ma/assets/files/Media/4SivwBzoZP35iyf4K/large/CALIFORNIA%20LOVERS.jpg",
+        "is_closed": false,
+        "money": "99 DH",
+        "name": "Yoka Slim",
+        "rating": 4,
+        "review_count": 1348
+      },
+      {
+        "category": "assortiment",
+        "description": "4 Rolls classic, 4 Dragon Roll, 4 Arc en ciel, 4 Cream cheese, 4 Fresh Roll, 4 Ebi Fry, 4 Boston Roll, 4 Shake Roll, 4 Rolls saumon",
+        "image_url": "https://api.allonaya.ma/assets/files/Media/MrWvkxgFCNLcfDW9n/image/WhatsApp%20Image%202023-12-09%20at%2019.33.22.jpg",
+        "is_closed": false,
+        "money": "290 DH",
+        "name": "Big Roll",
+        "rating": 4,
+        "review_count": 1296
+      },
+      {
+        "category": "soupe",
+        "description": "",
+        "image_url": "https://www.wandercooks.com/wp-content/uploads/2020/06/japanese-miso-soup-recipe-ft.jpg",
+        "is_closed": false,
+        "money": "26 DH",
+        "name": "Miso",
+        "rating": 4,
+        "review_count": 1239
+      },
+      {
+        "category": "soupe",
+        "description": "",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-1kaiBfK5oMlCX9_QInREZWkFPbAqOk1rjqeel5NBA&s",
+        "is_closed": false,
+        "money": "40 DH",
+        "name": "Tempura Crevettes",
+        "rating": 3.5,
+        "review_count": 1483
+      },
+      {
+        "category": "soupe",
+        "description": "Bouillon aux nouilles",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-lu4EZmI7qQujeaHC52SXwnDFqT7r387Wsg&s",
+        "is_closed": false,
+        "money": "37 DH",
+        "name": "Soba Udon Poulet",
+        "rating": 5,
+        "review_count": 2592
+      },
+      {
+        "category": "soupe",
+        "description": "",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxw47bqZuI2TQK3hiWQzqdlddoaviJaFyYtw&s",
+        "is_closed": false,
+        "money": "50 DH",
+        "name": "Soupe Saumon",
+        "rating": 4,
+        "review_count": 1947
+      },
+      {
+        "category": "soupe",
+        "description": "",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9phg538gL6EIMoqR-8A6r0EyIzMO8A1Teyg&s",
+        "is_closed": false,
+        "money": "46 DH",
+        "name": "Soupe Fruits de mer",
+        "rating": 4.5,
+        "review_count": 1242
+      },
+      {
+        "category": "soupe",
+        "description": "Poisson blanc, vermicelle, champignons",
+        "image_url": "https://api.allonaya.ma/assets/files/Media/Ff2vD9snBRTBmfJ5N/image/sakana.jpg",
+        "is_closed": false,
+        "money": "46 DH",
+        "name": "Soupe Sakana",
+        "rating": 3,
+        "review_count": 2852
+      },
+      {
+        "category": "soupe",
+        "description": "Tofu, crevettes, bouillon épicé",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhI16CyTcQw_rVNnv1YRa4f-geJ0qYmSdoHQ&s",
+        "is_closed": false,
+        "money": "50 DH",
+        "name": "Soupe Ebi Tofu",
+        "rating": 4.2,
+        "review_count": 1483
+      },
+      {
+        "category": "soupe",
+        "description": "",
+        "image_url": "https://api.allonaya.ma/assets/files/Media/5dFPcHbSpYzyKCaYD/large/a360_recettes_visuel_188.jpg",
+        "is_closed": false,
+        "money": "60 DH",
+        "name": "Soupe Royale",
+        "rating": 4,
+        "review_count": 1923
+      },
+      {
+        "category": "soupe",
+        "description": "",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbOBR1tM-pe6A2JP6-8dpwU0ib-7P9H50brg&s",
+        "is_closed": false,
+        "money": "50 DH",
+        "name": "Soupe Thai crevettes curry rouge",
+        "rating": 3,
+        "review_count": 2584
+      },
+      {
+        "category": "soupe",
+        "description": "",
+        "image_url": "https://api.allonaya.ma/assets/files/Media/DoPwF8NzwoTByzvLK/image/soupe-thaie-au-poulet-a-la-mijoteuse-550x550.jpg",
+        "is_closed": false,
+        "money": "50 DH",
+        "name": "Soupe Thai lait coco poulet",
+        "rating": 3.5,
+        "review_count": 1483
+      },
+      {
+        "category": "salade",
+        "description": "Carotte ou concombre",
+        "image_url": "https://i0.wp.com/leculdepoule.co/wp-content/uploads/2020/06/salade-de-wakame-le-cul-de-poule.jpg?fit=1719%2C2197&ssl=1",
+        "is_closed": false,
+        "money": "30 DH",
+        "name": "Salade Wakame",
+        "rating": 4,
+        "review_count": 1843
+      },
+      {
+        "category": "salade",
+        "description": "Bouillon de nouilles",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw2ygWopwFm7jr-RbK_rEiShw3CfQBRkfy8Q&s",
+        "is_closed": false,
+        "money": "20 DH",
+        "name": "Salade de choux ",
+        "rating": 4.5,
+        "review_count": 1284
+      },
+      {
+        "category": "salade",
+        "description": "",
+        "image_url": "https://api.allonaya.ma/assets/files/Media/SZN5GSDSjFddf5gZw/image/chouk%20soumon.jpg",
+        "is_closed": false,
+        "money": "45 DH",
+        "name": "Salade de choux au saumon ",
+        "rating": 3,
+        "review_count": 1953
+      },
+      {
+        "category": "salade",
+        "description": "",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsv1rkwtVS84Eac2EY5JADrW8s7kK_bnTnvA&s",
+        "is_closed": false,
+        "money": "40 DH",
+        "name": "Salade de choux au crevettes ",
+        "rating": 3.5,
+        "review_count": 2414
+      },
+      {
+        "category": "salade",
+        "description": "",
+        "image_url": "https://api.allonaya.ma/assets/files/Media/Hack6yyfXhoy9BvZ8/image/1592074669-1548343953-Yoka-Sushi-Salade-Choux-Crevettes.jpg",
+        "is_closed": false,
+        "money": "40 DH",
+        "name": "Umi salade fruits de mer ",
+        "rating": 5,
+        "review_count": 1843
+      },
+      {
+        "category": "salade",
+        "description": "Crevettes, poulet, crudités",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-2R8p5Hlo3txpOcVVQaj37eE4LHdz4CaZX5Plnj4EA&s",
+        "is_closed": false,
+        "money": "40 DH",
+        "name": "Yoka Salade ",
+        "rating": 4.5,
+        "review_count": 1943
+      },
+      {
+        "category": "salade",
+        "description": "",
+        "image_url": "https://norecipes.com/wp-content/uploads/2018/09/seaweed-salad-recipe-003.jpg",
+        "is_closed": false,
+        "money": "60 DH",
+        "name": "Sea Salade ",
+        "rating": 3.5,
+        "review_count": 1483
+      },
+      {
+        "category": "salade",
+        "description": "",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuw7gLdv9etLsLcDM_C6RY8T-B7tpS9BD_AGzAyVGlzA&s",
+        "is_closed": false,
+        "money": "55 DH",
+        "name": "Salade saumon avocat ",
+        "rating": 4,
+        "review_count": 1294
+      },
+      {
+        "category": "salade",
+        "description": "",
+        "image_url": "https://www.cookomix.com/wp-content/uploads/2021/07/salade-thai-boeuf-thermomix-800x600.jpg",
+        "is_closed": false,
+        "money": "60 DH",
+        "name": "Salade de boeuf thai ",
+        "rating": 3,
+        "review_count": 2482
+      },
+      {
+        "category": "pokebowl",
+        "description": "Saumon, mangue, avocat, edamame, légumes croquants, tobiko red, sésame",
+        "image_url": "https://norecipes.com/wp-content/uploads/2018/01/spicy-salmon-poke-007.jpg",
+        "is_closed": false,
+        "money": "85 DH",
+        "name": "Poke salmon",
+        "rating": 4,
+        "review_count": 1842
+      },
+      {
+        "category": "pokebowl",
+        "description": "Bœuf snacké épicé, avocat, choux rouge, edamame, radis, légumes croquants, tempura d’oignons, sauce teriaky",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6zfwYJYY11cAbsz8CykTIDF8yAxo1csOz40lmZCn_1Q&s",
+        "is_closed": false,
+        "money": "80 DH",
+        "name": "Poke beef",
+        "rating": 4,
+        "review_count": 1274
+      },
+      {
+        "category": "pokebowl",
+        "description": "Crevettes panées, mangue, avocat, légumes croquants, choux rouge, gingembre confit, noix de cajou, chili sauce",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6tSePVMNYKbRAuNMBKCVYr7IiJrHkK35Ig&s",
+        "is_closed": false,
+        "money": "80 DH",
+        "name": "Poke crevette",
+        "rating": 4.5,
+        "review_count": 1384
+      },
+      {
+        "category": "pokebowl",
+        "description": "Poulet pané, mangue, avocat, légumes croquants, choux rouge, radis, cacahuètes, sauce okinawa",
+        "image_url": "https://www.kikkoman.fr/fileadmin/_processed_/1/a/csm_110-recipe-page-Poke-Bowl-with-Crispy-Chicken_mobile_7938a2c4aa.webp",
+        "is_closed": false,
+        "money": "76 DH",
+        "name": "Poke poulet crispy",
+        "rating": 3.5,
+        "review_count": 1129
+      }
+    ]
+
+}
