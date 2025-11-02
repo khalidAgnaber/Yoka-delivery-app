@@ -7,14 +7,14 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCJ4l3_NZ2hzGLPwqXHeUK6MwuJi9qAS7k",
-  authDomain: "yoka-2be14.firebaseapp.com",
-  projectId: "yoka-2be14",
-  storageBucket: "yoka-2be14.appspot.com",
-  messagingSenderId: "779327587172",
-  appId: "1:779327587172:web:2bf8fd546de47526b9b071",
-  measurementId: "G-MN4SC8MV4S",
-  databaseURL: "https://yoka-2be14-default-rtdb.europe-west1.firebasedatabase.app/"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
+  databaseURL: ""
 };
 
 // Initialize Firebase (ensure that the app is initialized only once)
